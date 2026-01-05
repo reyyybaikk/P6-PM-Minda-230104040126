@@ -2,7 +2,7 @@
 
 > Praktikum Mobile Programming #6 — **Menggunakan Database Lokal (SQLite – Room ORM)**  
 > Disusun oleh: **M. Reyhan** (NIM: **230104040126**)  
-> Email: **reyhan@email.com**  
+> Email: **mraihan.app1@gmail.com**  
 > Dosen Pengampu: **Muhayat, M.IT**  
 > Program Studi Teknologi Informasi – Universitas Islam Negeri Antasari Banjarmasin
 
